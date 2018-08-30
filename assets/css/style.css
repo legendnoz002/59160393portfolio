@@ -19,7 +19,7 @@ header	{
 	border-bottom: none;
 	color: #ffffff;
 	height: 100%;
-	width: 270px;
+	width: 400px;
 	margin-left: 125px;
 	margin-bottom: 0;
 	font-family: 'Georgia', Times, Times New Roman, serif;
@@ -127,7 +127,7 @@ footer {
 }
 
 .header-container {
-	border-bottom: 2px solid #cccccc;
+	border-bottom: 2px solid #DC143C;
 	background-color: #ffffff;
 	height: 60px;
 }
